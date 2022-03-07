@@ -9,9 +9,9 @@ This microservices generating pdf
 
 ## Examples
 
-Template URL : http://innovationforkids.com/pdf-generate-microservice-email-template.html 
+Template URL : https://raw.githubusercontent.com/recepdmr/pdf-generator/main/data/example-template.html 
 
-Data URL : http://innovationforkids.com/pdf-generate-microservice-email-template-data.json
+Data URL : https://raw.githubusercontent.com/recepdmr/pdf-generator/main/data/example-data.json
 
 ## Try Microservice
 
