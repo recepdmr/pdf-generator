@@ -20,4 +20,4 @@ Data URL : https://raw.githubusercontent.com/recepdmr/pdf-generator/main/data/ex
 http://localhost:3000/?url=https://www.hizliis.com
 
 ### With Template
-http://localhost:3000/?templateUrl=http://innovationforkids.com/pdf-generate-microservice-email-template.html&dataUrl=http://innovationforkids.com/pdf-generate-microservice-email-template-data.json
+http://localhost:3000/?templateUrl=https://raw.githubusercontent.com/recepdmr/pdf-generator/main/data/example-template.html&dataUrl=https://raw.githubusercontent.com/recepdmr/pdf-generator/main/data/example-data.json
